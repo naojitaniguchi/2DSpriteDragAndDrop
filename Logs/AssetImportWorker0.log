@@ -1,0 +1,589 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1237; Version 2009; 64bit' Language: 'ja' Physical Memory: 16275 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/work/Joshibi/2021/UnityProject/2DSpriteDragAndDrop
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62455
+Successfully changed project path to: C:/work/Joshibi/2021/UnityProject/2DSpriteDragAndDrop
+C:/work/Joshibi/2021/UnityProject/2DSpriteDragAndDrop
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/work/Joshibi/2021/UnityProject/2DSpriteDragAndDrop/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   26.21.14.4120
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003088 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 2.240200 ms (FindLiveObjects: 0.180800 ms CreateObjectMapping: 0.054800 ms MarkObjects: 1.839000 ms  DeleteObjects: 0.164700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_13_shadow.png
+  artifactKey: Guid(645d1b3cdc1862540b74224b59718494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_13_shadow.png using Guid(645d1b3cdc1862540b74224b59718494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ea6fc52a39023b7a1a0bca63ada1c6') in 0.119748 seconds
+  Import took 0.123604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_14.png
+  artifactKey: Guid(6b6aa07ff38da884db23a93cdc5929e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_14.png using Guid(6b6aa07ff38da884db23a93cdc5929e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce63f75a8da6e517602215d8cb0467e') in 0.020459 seconds
+  Import took 0.023429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Japanese Dishes
+  artifactKey: Guid(6a4c08fb2ca1aff4b9e4f47e7d86ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes using Guid(6a4c08fb2ca1aff4b9e4f47e7d86ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37956287f088988c0796f926e877335') in 0.008602 seconds
+  Import took 0.013077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_12.png
+  artifactKey: Guid(db97e1e9f2ad1ca47ae3a27747701e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_12.png using Guid(db97e1e9f2ad1ca47ae3a27747701e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87268b6e6cefe49d422dcb1b2c2fa6c4') in 0.019544 seconds
+  Import took 0.023366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_15.png
+  artifactKey: Guid(75253af28112fa049a2c288d6f952ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_15.png using Guid(75253af28112fa049a2c288d6f952ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59386d86e93bb14108ab9801827392d0') in 0.032751 seconds
+  Import took 0.037196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_01_shadow.png
+  artifactKey: Guid(16cd7ac1e7206cb4a84b1fe46fb4713d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_01_shadow.png using Guid(16cd7ac1e7206cb4a84b1fe46fb4713d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55db82230af2c0d7872260a80e3647d8') in 0.021977 seconds
+  Import took 0.026166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_07_shadow.png
+  artifactKey: Guid(a77c8f0cb5a9f214c85c148e3a327d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_07_shadow.png using Guid(a77c8f0cb5a9f214c85c148e3a327d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5558e762c96f00977b96eec03b6056') in 0.029774 seconds
+  Import took 0.033396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_22.png
+  artifactKey: Guid(d1cb4e81a62cd6f4eb57615797edefa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_22.png using Guid(d1cb4e81a62cd6f4eb57615797edefa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93471347a16c5eb281b8e0c211290902') in 0.032453 seconds
+  Import took 0.035657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_03_shadow.png
+  artifactKey: Guid(f2ed199590d58284da615025792bed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_03_shadow.png using Guid(f2ed199590d58284da615025792bed8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faedbdcbb53fe3186e9adaecc5f6198b') in 0.015614 seconds
+  Import took 0.019311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_03.png
+  artifactKey: Guid(c82d61de01af99b4ab299ce19678bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_03.png using Guid(c82d61de01af99b4ab299ce19678bbff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead5be8e6e8216260f178b7649ed0a4f') in 0.017024 seconds
+  Import took 0.021331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_06_shadow.png
+  artifactKey: Guid(cdeb17ee04b736649b9eb81c37e0abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_06_shadow.png using Guid(cdeb17ee04b736649b9eb81c37e0abdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3deeffcf299e7ba828e33fb84abf7e27') in 0.015736 seconds
+  Import took 0.019156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_06.png
+  artifactKey: Guid(262a0cf8101335c429473fc17f9fb356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_06.png using Guid(262a0cf8101335c429473fc17f9fb356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab3648bc7763cd646414c4131843e046') in 0.016799 seconds
+  Import took 0.022032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_10.png
+  artifactKey: Guid(40d1856dae65f184b8b88b0b65ad61cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_10.png using Guid(40d1856dae65f184b8b88b0b65ad61cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0598fe4073716a48d7672e6a039baf') in 0.014518 seconds
+  Import took 0.017939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_18.png
+  artifactKey: Guid(d874f4540a4f31f40b1560c5016ff8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_18.png using Guid(d874f4540a4f31f40b1560c5016ff8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4fd50589d4705c048ca029a653d6c17') in 0.014734 seconds
+  Import took 0.017970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_04_shadow.png
+  artifactKey: Guid(72ad32f94f5e54646bd557221e818c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_04_shadow.png using Guid(72ad32f94f5e54646bd557221e818c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0cbdc63f83f27002a25b4a0cc2b57a4') in 0.015912 seconds
+  Import took 0.019397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_21.png
+  artifactKey: Guid(a3058a2432ff46c49b90468fd475e9de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_21.png using Guid(a3058a2432ff46c49b90468fd475e9de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad2a94250c96bdabc6088c99bda8a7e2') in 0.013747 seconds
+  Import took 0.017621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_23_shadow.png
+  artifactKey: Guid(78e02cb4c0f50d446a39dfab94b02aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_23_shadow.png using Guid(78e02cb4c0f50d446a39dfab94b02aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83a246e1114bb11bfc01643e964d867') in 0.014519 seconds
+  Import took 0.017683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_14_shadow.png
+  artifactKey: Guid(8314733e8c1c2a940801850a177e5110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_14_shadow.png using Guid(8314733e8c1c2a940801850a177e5110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbbc74faa4655a5abc761eab709a9129') in 0.013840 seconds
+  Import took 0.017199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_15_shadow.png
+  artifactKey: Guid(9338c187b8776944ab1ed59cc7aebd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_15_shadow.png using Guid(9338c187b8776944ab1ed59cc7aebd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd854196878a62733ef9e853f57bfbe05') in 0.014633 seconds
+  Import took 0.018348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_11_shadow.png
+  artifactKey: Guid(c61ffeed20f7c04448185ad26d8b1c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_11_shadow.png using Guid(c61ffeed20f7c04448185ad26d8b1c6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfd887599caeb505b7acf1ddbdb1971') in 0.016900 seconds
+  Import took 0.020297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_01.png
+  artifactKey: Guid(54e38ee4a0b599942ab1949948fee7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_01.png using Guid(54e38ee4a0b599942ab1949948fee7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4ca082c597f9252f250c57b89418fa') in 0.015691 seconds
+  Import took 0.019730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_17.png
+  artifactKey: Guid(13abb4172986f1a41bbd9a3f57b32ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_17.png using Guid(13abb4172986f1a41bbd9a3f57b32ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78212a01058d9a2d0e2c0f5192cb57f9') in 0.016355 seconds
+  Import took 0.020265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000788 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_16_shadow.png
+  artifactKey: Guid(af910f7262188fa4f8ec1283771902d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_16_shadow.png using Guid(af910f7262188fa4f8ec1283771902d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ec4d29c0bfbc8a13bc62620e6ffdfe') in 0.017763 seconds
+  Import took 0.020974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_05_shadow.png
+  artifactKey: Guid(dc216dc0a1c16e94788ed73e8fc24828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_05_shadow.png using Guid(dc216dc0a1c16e94788ed73e8fc24828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6599760026ed5af072b7d5a5bcb355f0') in 0.014262 seconds
+  Import took 0.019036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_09.png
+  artifactKey: Guid(9fb6c8ba93b115542bc7c03577c8cf0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_09.png using Guid(9fb6c8ba93b115542bc7c03577c8cf0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba043db9b6ddc9d4e22f18045560356') in 0.016156 seconds
+  Import took 0.019955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_19_shadow.png
+  artifactKey: Guid(8cff6b6233457f84bbc6c6b2723316e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_19_shadow.png using Guid(8cff6b6233457f84bbc6c6b2723316e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c4bd89464a0ac254b0cbcce20bd16b3') in 0.014970 seconds
+  Import took 0.018029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_20_shadow.png
+  artifactKey: Guid(f9d0b8987c2f8b94dafb50e58650763e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_20_shadow.png using Guid(f9d0b8987c2f8b94dafb50e58650763e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666bf6d932e5da38541c87b146cfd97e') in 0.015532 seconds
+  Import took 0.019074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_10_shadow.png
+  artifactKey: Guid(71a571f6e451fb0469142c56a535b347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_10_shadow.png using Guid(71a571f6e451fb0469142c56a535b347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e59b8e5a941eb88586da7a272a4b305') in 0.016628 seconds
+  Import took 0.021344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_05.png
+  artifactKey: Guid(d8e2e84f7d9f9504c9aae39af5ccd1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_05.png using Guid(d8e2e84f7d9f9504c9aae39af5ccd1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c77fe70f04cfd46c50f6260f275bbab') in 0.015050 seconds
+  Import took 0.018303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_19.png
+  artifactKey: Guid(d8ea87c1856395c47a2a5c272e883080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_19.png using Guid(d8ea87c1856395c47a2a5c272e883080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81da7e21f7ec7e91ff29897bd1081f4') in 0.014350 seconds
+  Import took 0.017810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_07.png
+  artifactKey: Guid(57d171fe97871c546867903405e82b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_07.png using Guid(57d171fe97871c546867903405e82b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99ec024ed55b37b25044a9527d5e9ca5') in 0.014207 seconds
+  Import took 0.017663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_04.png
+  artifactKey: Guid(59fc7008802c0484a8ddf06704a2e07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_04.png using Guid(59fc7008802c0484a8ddf06704a2e07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad2f8c2558aad5987cb78bd050966b1') in 0.016733 seconds
+  Import took 0.020762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_08.png
+  artifactKey: Guid(d1029422f3b946b4b8c40158a32e032d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_08.png using Guid(d1029422f3b946b4b8c40158a32e032d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e5615fb33745a79c8ca89f8f043067') in 0.018010 seconds
+  Import took 0.023005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_13.png
+  artifactKey: Guid(aef72625293efa84fad0a169d11599fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_13.png using Guid(aef72625293efa84fad0a169d11599fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412ad0dddbe4091aafce6acd93df0c24') in 0.016808 seconds
+  Import took 0.020244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_08_shadow.png
+  artifactKey: Guid(aa0566904ca3fbd45ad35a04ac9c4c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_08_shadow.png using Guid(aa0566904ca3fbd45ad35a04ac9c4c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de6b9f14fae52259ef0d16fa9d6bcaa') in 0.014431 seconds
+  Import took 0.017788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_22_shadow.png
+  artifactKey: Guid(2dedc7eb7d22ac1438cc8463cd1e2c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_22_shadow.png using Guid(2dedc7eb7d22ac1438cc8463cd1e2c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b86c004161a95fe7f4757ee86ac29f') in 0.014872 seconds
+  Import took 0.019004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_02_shadow.png
+  artifactKey: Guid(34a1eed932c98824484e79f43cb23896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_02_shadow.png using Guid(34a1eed932c98824484e79f43cb23896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c91947beb5b7e183a2197173b0bf1f9') in 0.014577 seconds
+  Import took 0.017644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_20.png
+  artifactKey: Guid(a0419f2bb78d68745974720516f40e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_20.png using Guid(a0419f2bb78d68745974720516f40e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c0adb1eb75284effe1a602a006e369') in 0.015653 seconds
+  Import took 0.019096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_11.png
+  artifactKey: Guid(052448aac9d963c4cbda749d2f004959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_11.png using Guid(052448aac9d963c4cbda749d2f004959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acca5e047e6f6867e783056400dee6dd') in 0.016403 seconds
+  Import took 0.020562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_17_shadow.png
+  artifactKey: Guid(ffcf215ade065c14db7a2319b4c5b9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_17_shadow.png using Guid(ffcf215ade065c14db7a2319b4c5b9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7755748277420a567ce3c82fee4b3f') in 0.016190 seconds
+  Import took 0.019362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_09_shadow.png
+  artifactKey: Guid(12722c974c6ead0498c3fdf04171718f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_09_shadow.png using Guid(12722c974c6ead0498c3fdf04171718f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3402a35fb2f1194f48be5a428c78e8') in 0.015226 seconds
+  Import took 0.019449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Japanese Dishes/PNGs/table.png
+  artifactKey: Guid(288b45f4d7c0645409d9959faf52d53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/table.png using Guid(288b45f4d7c0645409d9959faf52d53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a616ec532026b04bea650e299c576f') in 0.017172 seconds
+  Import took 0.020397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_18_shadow.png
+  artifactKey: Guid(9f080f2a424577f4e963bbc165779fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_18_shadow.png using Guid(9f080f2a424577f4e963bbc165779fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c04ded6f48246cdabdcbe348f577f0b5') in 0.014243 seconds
+  Import took 0.019559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_21_shadow.png
+  artifactKey: Guid(1c5e2ef9f463f834fa1ba08faf955fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_21_shadow.png using Guid(1c5e2ef9f463f834fa1ba08faf955fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7a8cd99d5a87a324908ca1f075e050') in 0.014681 seconds
+  Import took 0.018857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Japanese Dishes/PNGs
+  artifactKey: Guid(9d0c54fbf2e550a4b8214ecd4e4062f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs using Guid(9d0c54fbf2e550a4b8214ecd4e4062f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3239a959b71ae5b777eb6b18c3bc3810') in 0.006324 seconds
+  Import took 0.009357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_02.png
+  artifactKey: Guid(d79c1007a13b22e44a12aea3b530d400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_02.png using Guid(d79c1007a13b22e44a12aea3b530d400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc81cd0ce0a8e6707019e20febaee5ea') in 0.015708 seconds
+  Import took 0.019473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_12_shadow.png
+  artifactKey: Guid(434b40c78a318c64b9f356bb0aeee8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_12_shadow.png using Guid(434b40c78a318c64b9f356bb0aeee8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a275b67942c47ea2ef436e1bd3a4b7') in 0.016234 seconds
+  Import took 0.019801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_16.png
+  artifactKey: Guid(9f978d9366d0ac045b71675971b85045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_16.png using Guid(9f978d9366d0ac045b71675971b85045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9c360bff1bba145a3838437778cec1') in 0.017351 seconds
+  Import took 0.021323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Japanese Dishes/PNGs/japanese_food_23.png
+  artifactKey: Guid(de8ca22626355e94a8b6f1e7d6d92b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Japanese Dishes/PNGs/japanese_food_23.png using Guid(de8ca22626355e94a8b6f1e7d6d92b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea610ba08ed22f06ccf72d95f5543ff') in 0.014129 seconds
+  Import took 0.017945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.507452 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.009097 seconds
+  Import took 0.013774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.603560 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(9dead920284aa3b4fae3ce286e4a1396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(9dead920284aa3b4fae3ce286e4a1396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07202f89382d4f9a7b100a7c78965ad') in 0.008933 seconds
+  Import took 0.012874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000866 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(9dead920284aa3b4fae3ce286e4a1396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(9dead920284aa3b4fae3ce286e4a1396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07202f89382d4f9a7b100a7c78965ad') in 0.004328 seconds
+  Import took 0.008085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.834689 seconds.
+  path: Assets/Scripts/DragAndDrop.cs
+  artifactKey: Guid(3d026412a1a771e41b9c2f71c297b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DragAndDrop.cs using Guid(3d026412a1a771e41b9c2f71c297b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07dafa1c377f84dabe3144ad9626a36e') in 0.016636 seconds
+  Import took 0.019960 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001117 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.992200 ms (FindLiveObjects: 0.168900 ms CreateObjectMapping: 0.063500 ms MarkObjects: 2.564500 ms  DeleteObjects: 0.193800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002452 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.017 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.462500 ms (FindLiveObjects: 0.186600 ms CreateObjectMapping: 0.062700 ms MarkObjects: 2.044700 ms  DeleteObjects: 0.167400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 514.033977 seconds.
+  path: Assets/Scripts/DragAndDrop.cs
+  artifactKey: Guid(3d026412a1a771e41b9c2f71c297b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DragAndDrop.cs using Guid(3d026412a1a771e41b9c2f71c297b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957d56024f1a06c741717919dcea3f85') in 0.005451 seconds
+  Import took 0.008621 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001074 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 2.241300 ms (FindLiveObjects: 0.172400 ms CreateObjectMapping: 0.058700 ms MarkObjects: 1.850900 ms  DeleteObjects: 0.158500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.982233 seconds.
+  path: Assets/Scripts/DragAndDrop.cs
+  artifactKey: Guid(3d026412a1a771e41b9c2f71c297b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DragAndDrop.cs using Guid(3d026412a1a771e41b9c2f71c297b4b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d6a87206dd1c9f80d1280dc8babfae7') in 0.005621 seconds
+  Import took 0.009422 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2277.
+Total: 2.361800 ms (FindLiveObjects: 0.240000 ms CreateObjectMapping: 0.070200 ms MarkObjects: 1.903200 ms  DeleteObjects: 0.147400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
